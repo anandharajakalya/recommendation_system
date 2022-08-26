@@ -11,9 +11,13 @@ Since user based recommendation system needed ratings, extrapolation was done de
 
 ##### Algorithm
 User based recommendation system is used that contains the following steps
-1. Build user-user matrix
-2.Use cosine similarity to find out the similarity between Users
+
+1.Build user-user matrix
+
+2.Use cosine similarity to find out the similarity between Users 
+
 3.Find the most similar users
+
 4.Suggest the gifts for the chosen user depending on weighted average of ratings given to the gifts
 
 ##### Techniques involved
